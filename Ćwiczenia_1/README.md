@@ -10,4 +10,4 @@ Program:
 5.	square equation.py - Calculate square equation.
 6.	sort_rand.py - Sort list with random content.
 
-file "test.txt" and folder "folder_testowy" with in conent has been created for checking programs functionality
+Folder "folder_testowy" with in conent has been created for checking programs functionality
